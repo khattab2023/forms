@@ -26,6 +26,9 @@
     left: 609px;
     top: 0;
 }
+input{
+    color: white;
+}
 
 .label {
     text-transform: uppercase;
@@ -48,9 +51,7 @@
     font-size: 18px;
     letter-spacing: 4.4px;
 }
-placeholder{
-    color: #fdfeff;
-}
+
 .line-1 {
     border-style: solid;
     border-color: #9dbebb;
@@ -83,7 +84,7 @@ placeholder{
     text-transform: uppercase;
     position: absolute;
     left: calc(50% - 288px);
-    top: calc(50% - -198px);
+    top: calc(50% - -217px);
 }
 
 .duck {
